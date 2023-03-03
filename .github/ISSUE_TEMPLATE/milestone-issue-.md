@@ -22,6 +22,6 @@ Children:
 - 
 
 Resources:
-- https://github.com/orgs/wnfs-wg/projects/1/views/1
+- 
 
 Note: This milestone is subject to change as priorities and circumstances evolve.
