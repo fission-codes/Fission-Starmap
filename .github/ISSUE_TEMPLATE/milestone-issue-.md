@@ -7,21 +7,20 @@ assignees: ''
 
 ---
 
-ETA: AAAA-MM-DD
-
 Description:
 This milestone is part of the [Fission Projects Roadmap](https://github.com/bdehaynin/Fission-Starmaps/issues/1).
 
-Objectives:
+### Objectives: ###
 - 
 
-Features: 
+ETA: AAAA-MM-DD
+
+### Features: ###
 - 
 
-Children:
+### Children: ###
 - 
 
 Resources:
-- 
-
+- [Starmaps](https://starmap.site/roadmap/github.com/bdehaynin/Fission-Starmaps/issues/1#simple)
 Note: This milestone is subject to change as priorities and circumstances evolve.
