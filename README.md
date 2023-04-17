@@ -1,4 +1,4 @@
-# Fission-Starmapf
+# Fission-Starmap
 Roadmap render of all Fission projects in one place
 
 This repo hosts the root and milestones issues necessary to render Fission projects in Starmap. To access Starmap, click [here](https://starmap.site/roadmap/github.com/fission-codes/Fission-Starmap/issues/1#simple).
