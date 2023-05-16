@@ -2,7 +2,7 @@
 name: 'Milestone issue '
 about: Describe this issue template's purpose here.
 title: "[Project][ETA] - [Objective]"
-labels: starmaps
+labels: Milestone
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: 'Project issue '
 about: Describe this issue template's purpose here.
 title: ''
-labels: starmaps
+labels: Project
 assignees: ''
 
 ---

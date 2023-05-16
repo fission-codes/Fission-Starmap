@@ -2,7 +2,7 @@
 name: Standard issue (low-level)
 about: Describe this issue template's purpose here.
 title: ''
-labels: starmaps
+labels: low-level
 assignees: ''
 
 ---
