@@ -16,6 +16,6 @@ This project is part of the [Fission Roadmap](https://starmap.site/roadmap/githu
 ETA: 
 
 ### Resources: ###
-- [Starmaps](https://starmap.site/roadmap/github.com/bdehaynin/Fission-Starmaps/issues/1#simple)
+- [Starmap](https://starmap.site/roadmap/github.com/bdehaynin/Fission-Starmaps/issues/1#simple)
 
 Note: This milestone is subject to change as priorities and circumstances evolve.
