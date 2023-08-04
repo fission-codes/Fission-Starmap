@@ -22,5 +22,5 @@ ETA: AAAA-MM-DD
 - 
 
 ### Resources: ###
-- [Starmap](https://starmap.site/roadmap/github.com/bdehaynin/Fission-Starmaps/issues/1#simple)
+- [Starmap](https://starmap.site/roadmap/github.com/fission-codes/Fission-Starmap/issues/1#view=simple)
 Note: This milestone is subject to change as priorities and circumstances evolve.

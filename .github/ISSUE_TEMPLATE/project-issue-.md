@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### Description: ###
-This project is part of the [Fission Roadmap](https://starmap.site/roadmap/github.com/bdehaynin/Fission-Starmaps/issues/1#simple).
+This project is part of the [Fission Roadmap](https://starmap.site/roadmap/github.com/fission-codes/Fission-Starmap/issues/1#view=simple).
 
 ### Children: ###
 - [Add milestones links here]
@@ -16,6 +16,6 @@ This project is part of the [Fission Roadmap](https://starmap.site/roadmap/githu
 ETA: 
 
 ### Resources: ###
-- [Starmap](https://starmap.site/roadmap/github.com/bdehaynin/Fission-Starmaps/issues/1#simple)
+- [Starmap](https://starmap.site/roadmap/github.com/fission-codes/Fission-Starmap/issues/1#view=simple)
 
 Note: This milestone is subject to change as priorities and circumstances evolve.

@@ -9,7 +9,7 @@ assignees: ''
 
 ### Summary
 
-A short summary of this roadmap item (tip: fill this in last).
+A short summary of this roadmap item.
 
 ### Problem / Need / Opportunity
 
